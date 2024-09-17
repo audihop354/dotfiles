@@ -1,0 +1,25 @@
+2024/09/15-21:09:12.876 740 Reusing MANIFEST /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.sofascore.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/15-21:09:12.877 740 Recovering log #1250
+2024/09/15-21:09:12.879 740 Reusing old log /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.sofascore.com_0.indexeddb.leveldb/001250.log 
+2024/09/15-21:09:12.879 740 Delete type=2 #1249
+2024/09/15-21:09:13.389 740 Level-0 table #1255: started
+2024/09/15-21:09:13.391 740 Level-0 table #1255: 41434 bytes OK
+2024/09/15-21:09:13.392 740 Delete type=0 #1250
+2024/09/15-21:09:13.393 740 Manual compaction at level-0 from ' ~\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x7f\x01\x00\x00\x00' @ 0 : 0; will stop at ' ~\x01\x00\x00\x05' @ 65435 : 1
+2024/09/15-21:09:13.393 740 Compacting 1@0 + 1@1 files
+2024/09/15-21:09:13.396 740 Generated table #1256@0: 1209 keys, 12154 bytes
+2024/09/15-21:09:13.396 740 Compacted 1@0 + 1@1 files => 12154 bytes
+2024/09/15-21:09:13.398 740 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/15-21:09:13.398 740 Delete type=2 #1255
+2024/09/15-21:09:13.398 740 Manual compaction at level-0 from ' ~\x01\x00\x00\x05' @ 65435 : 1 .. ' \x7f\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/15-21:09:15.757 74d Level-0 table #1258: started
+2024/09/15-21:09:15.758 74d Level-0 table #1258: 664 bytes OK
+2024/09/15-21:09:15.763 74d Delete type=2 #1252
+2024/09/15-21:09:15.763 74d Delete type=0 #1254
+2024/09/15-21:09:15.764 74d Manual compaction at level-0 from ' \x7f\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x80\x01\x00\x00\x00' @ 0 : 0; will stop at ' \x7f\x01\x00\x00\x05' @ 65454 : 1
+2024/09/15-21:09:15.764 74d Compacting 1@0 + 1@1 files
+2024/09/15-21:09:15.766 74d Generated table #1259@0: 1209 keys, 12151 bytes
+2024/09/15-21:09:15.766 74d Compacted 1@0 + 1@1 files => 12151 bytes
+2024/09/15-21:09:15.767 74d compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/15-21:09:15.767 74d Delete type=2 #1258
+2024/09/15-21:09:15.767 741 Manual compaction at level-0 from ' \x7f\x01\x00\x00\x05' @ 65454 : 1 .. ' \x80\x01\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,21 @@
+2024/09/17-16:23:49.992 73b Reusing MANIFEST /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/17-16:23:49.992 73b Recovering log #1392
+2024/09/17-16:23:49.992 73b Reusing old log /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/001392.log 
+2024/09/17-16:38:43.105 73c Level-0 table #1397: started
+2024/09/17-16:38:43.123 73c Level-0 table #1397: 1109944 bytes OK
+2024/09/17-16:38:43.125 73c Delete type=0 #1392
+2024/09/17-16:38:50.271 73c Compacting 1@1 + 1@2 files
+2024/09/17-16:38:50.283 73c Generated table #1398@1: 746 keys, 63389 bytes
+2024/09/17-16:38:50.283 73c Compacted 1@1 + 1@2 files => 63389 bytes
+2024/09/17-16:38:50.284 73c compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/17-16:38:50.285 73c Delete type=2 #1397
+2024/09/17-16:38:50.285 73c Delete type=2 #1394
+2024/09/17-16:40:18.217 73c Level-0 table #1400: started
+2024/09/17-16:40:18.232 73c Level-0 table #1400: 961810 bytes OK
+2024/09/17-16:40:18.235 73c Delete type=0 #1396
+2024/09/17-16:41:18.887 73c Compacting 1@1 + 1@2 files
+2024/09/17-16:41:18.900 73c Generated table #1401@1: 747 keys, 65270 bytes
+2024/09/17-16:41:18.900 73c Compacted 1@1 + 1@2 files => 65270 bytes
+2024/09/17-16:41:18.901 73c compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/17-16:41:18.902 73c Delete type=2 #1400
+2024/09/17-16:41:18.902 73c Delete type=2 #1398

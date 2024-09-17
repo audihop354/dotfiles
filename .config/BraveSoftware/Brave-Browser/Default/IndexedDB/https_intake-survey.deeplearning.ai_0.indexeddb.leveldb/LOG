@@ -1,0 +1,18 @@
+2024/06/19-11:45:43.876 1f44 Creating DB /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_intake-survey.deeplearning.ai_0.indexeddb.leveldb since it was missing.
+2024/06/19-11:45:43.879 1f44 Reusing MANIFEST /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_intake-survey.deeplearning.ai_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/19-11:45:43.885 1f52 Level-0 table #5: started
+2024/06/19-11:45:43.887 1f52 Level-0 table #5: 790 bytes OK
+2024/06/19-11:45:43.889 1f52 Delete type=0 #3
+2024/06/19-11:45:43.889 1f52 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/06/19-11:46:25.771 1f45 Level-0 table #7: started
+2024/06/19-11:46:25.776 1f45 Level-0 table #7: 3253 bytes OK
+2024/06/19-11:46:25.779 1f45 Delete type=0 #4
+2024/06/19-11:46:25.781 1f45 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/06/19-11:46:25.782 1f45 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x012\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x008\x006\x005\x006\x009\x007\x006\x002\x006\x000\x001\x00:\x00w\x00e\x00b\x00:\x000\x000\x00c\x00f\x003\x00a\x00e\x004\x003\x006\x00b\x00b\x001\x007\x008\x003\x007\x00e\x004\x001\x003\x008' @ 120 : 1
+2024/06/19-11:46:25.782 1f45 Compacting 1@1 + 1@2 files
+2024/06/19-11:46:25.786 1f45 Generated table #8@1: 36 keys, 1613 bytes
+2024/06/19-11:46:25.786 1f45 Compacted 1@1 + 1@2 files => 1613 bytes
+2024/06/19-11:46:25.789 1f45 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/19-11:46:25.790 1f45 Delete type=2 #7
+2024/06/19-11:46:25.790 1f45 Delete type=2 #5
+2024/06/19-11:46:25.792 1f45 Manual compaction at level-1 from '\x00\x03\x01\x02\x012\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x008\x006\x005\x006\x009\x007\x006\x002\x006\x000\x001\x00:\x00w\x00e\x00b\x00:\x000\x000\x00c\x00f\x003\x00a\x00e\x004\x003\x006\x00b\x00b\x001\x007\x008\x003\x007\x00e\x004\x001\x003\x008' @ 120 : 1 .. (end); will stop at (end)

@@ -1,0 +1,7 @@
+2024/08/22-12:30:11.263 1a02 Reusing MANIFEST /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_calendar.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/22-12:30:11.264 1a02 Recovering log #3
+2024/08/22-12:30:11.271 1a02 Reusing old log /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_calendar.notion.so_0.indexeddb.leveldb/000003.log 
+2024/08/22-12:59:34.705 1a03 Level-0 table #5: started
+2024/08/22-12:59:34.712 1a03 Level-0 table #5: 172892 bytes OK
+2024/08/22-12:59:34.714 1a03 Delete type=0 #3
+2024/08/22-12:59:34.715 1a02 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

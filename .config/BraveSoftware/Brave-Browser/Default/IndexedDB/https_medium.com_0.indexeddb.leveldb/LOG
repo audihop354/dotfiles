@@ -1,0 +1,15 @@
+2024/07/23-00:37:10.118 5bb Reusing MANIFEST /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_medium.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/23-00:37:10.118 5bb Recovering log #15
+2024/07/23-00:37:10.118 5bb Reusing old log /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_medium.com_0.indexeddb.leveldb/000015.log 
+2024/07/23-00:37:23.681 5bb Level-0 table #20: started
+2024/07/23-00:37:23.682 5bb Level-0 table #20: 209 bytes OK
+2024/07/23-00:37:23.683 5bb Delete type=0 #15
+2024/07/23-00:37:23.683 5bb Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/07/23-00:37:23.683 5bb Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 232 : 1
+2024/07/23-00:37:23.683 5bb Compacting 1@1 + 1@2 files
+2024/07/23-00:37:23.684 5bb Generated table #21@1: 69 keys, 1211 bytes
+2024/07/23-00:37:23.684 5bb Compacted 1@1 + 1@2 files => 1211 bytes
+2024/07/23-00:37:23.685 5bb compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/07/23-00:37:23.685 5bb Delete type=2 #17
+2024/07/23-00:37:23.685 5bb Delete type=2 #20
+2024/07/23-00:37:23.685 5bb Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 232 : 1 .. (end); will stop at (end)

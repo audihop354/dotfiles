@@ -1,0 +1,78 @@
+2024/09/17-19:03:08.038 4 Reusing MANIFEST /home/namun/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2024/09/17-19:03:08.048 4 Recovering log #15681
+2024/09/17-19:03:08.048 4 Reusing old log /home/namun/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/015681.log 
+2024/09/17-19:06:00.580 5 Level-0 table #15685: started
+2024/09/17-19:06:00.591 5 Level-0 table #15685: 307900 bytes OK
+2024/09/17-19:06:00.593 5 Delete type=0 #15681
+2024/09/17-19:11:58.030 5 Level-0 table #15687: started
+2024/09/17-19:11:58.040 5 Level-0 table #15687: 304233 bytes OK
+2024/09/17-19:11:58.042 5 Delete type=0 #15684
+2024/09/17-19:11:58.043 5 Compacting 4@0 + 3@1 files
+2024/09/17-19:11:58.075 5 Generated table #15688@0: 10594 keys, 3397414 bytes
+2024/09/17-19:11:58.111 5 Generated table #15689@0: 23422 keys, 2721502 bytes
+2024/09/17-19:11:58.129 5 Generated table #15690@0: 456 keys, 1134641 bytes
+2024/09/17-19:11:58.129 5 Compacted 4@0 + 3@1 files => 7253557 bytes
+2024/09/17-19:11:58.130 5 compacted to: files[ 0 3 7 0 0 0 0 ]
+2024/09/17-19:11:58.130 5 Delete type=2 #15677
+2024/09/17-19:11:58.130 5 Delete type=2 #15682
+2024/09/17-19:11:58.130 5 Delete type=2 #15676
+2024/09/17-19:11:58.130 5 Delete type=2 #15678
+2024/09/17-19:11:58.130 5 Delete type=2 #15687
+2024/09/17-19:11:58.130 5 Delete type=2 #15685
+2024/09/17-19:11:58.130 5 Delete type=2 #15680
+2024/09/17-19:12:24.146 4 Level-0 table #15692: started
+2024/09/17-19:12:24.150 4 Level-0 table #15692: 132077 bytes OK
+2024/09/17-19:12:24.152 4 Delete type=0 #15686
+2024/09/17-19:13:39.906 7 Level-0 table #15694: started
+2024/09/17-19:13:39.910 7 Level-0 table #15694: 129234 bytes OK
+2024/09/17-19:13:39.911 7 Delete type=0 #15691
+2024/09/17-19:20:08.465 5 Level-0 table #15696: started
+2024/09/17-19:20:08.467 5 Level-0 table #15696: 21624 bytes OK
+2024/09/17-19:20:08.470 5 Delete type=0 #15693
+2024/09/17-19:23:32.745 5 Level-0 table #15698: started
+2024/09/17-19:23:32.749 5 Level-0 table #15698: 138112 bytes OK
+2024/09/17-19:23:32.750 5 Delete type=0 #15695
+2024/09/17-19:23:32.751 5 Compacting 4@0 + 3@1 files
+2024/09/17-19:23:32.780 5 Generated table #15699@0: 10601 keys, 3397727 bytes
+2024/09/17-19:23:32.804 5 Generated table #15700@0: 23277 keys, 2104090 bytes
+2024/09/17-19:23:32.823 5 Generated table #15701@0: 633 keys, 1883058 bytes
+2024/09/17-19:23:32.823 5 Compacted 4@0 + 3@1 files => 7384875 bytes
+2024/09/17-19:23:32.825 5 compacted to: files[ 0 3 7 0 0 0 0 ]
+2024/09/17-19:23:32.825 5 Delete type=2 #15698
+2024/09/17-19:23:32.825 5 Delete type=2 #15696
+2024/09/17-19:23:32.825 5 Delete type=2 #15688
+2024/09/17-19:23:32.825 5 Delete type=2 #15689
+2024/09/17-19:23:32.825 5 Delete type=2 #15690
+2024/09/17-19:23:32.825 5 Delete type=2 #15694
+2024/09/17-19:23:32.825 5 Delete type=2 #15692
+2024/09/17-19:29:04.597 4 Level-0 table #15703: started
+2024/09/17-19:29:04.604 4 Level-0 table #15703: 35742 bytes OK
+2024/09/17-19:29:04.607 4 Delete type=0 #15697
+2024/09/17-19:29:40.672 5 Level-0 table #15705: started
+2024/09/17-19:29:40.681 5 Level-0 table #15705: 251713 bytes OK
+2024/09/17-19:29:40.683 5 Delete type=0 #15702
+2024/09/17-19:31:13.913 4 Level-0 table #15707: started
+2024/09/17-19:31:13.920 4 Level-0 table #15707: 71652 bytes OK
+2024/09/17-19:31:13.922 4 Delete type=0 #15704
+2024/09/17-19:34:43.516 4 Level-0 table #15709: started
+2024/09/17-19:34:43.525 4 Level-0 table #15709: 70467 bytes OK
+2024/09/17-19:34:43.527 4 Delete type=0 #15706
+2024/09/17-19:34:43.528 4 Compacting 4@0 + 3@1 files
+2024/09/17-19:34:43.553 4 Generated table #15710@0: 10608 keys, 2518018 bytes
+2024/09/17-19:34:43.575 4 Generated table #15711@0: 23284 keys, 2104558 bytes
+2024/09/17-19:34:43.595 4 Generated table #15712@0: 652 keys, 1884696 bytes
+2024/09/17-19:34:43.595 4 Compacted 4@0 + 3@1 files => 6507272 bytes
+2024/09/17-19:34:43.597 4 compacted to: files[ 0 3 7 0 0 0 0 ]
+2024/09/17-19:34:43.597 4 Delete type=2 #15703
+2024/09/17-19:34:43.598 4 Delete type=2 #15699
+2024/09/17-19:34:43.598 4 Delete type=2 #15705
+2024/09/17-19:34:43.598 4 Delete type=2 #15700
+2024/09/17-19:34:43.598 4 Delete type=2 #15709
+2024/09/17-19:34:43.598 4 Delete type=2 #15701
+2024/09/17-19:34:43.598 4 Delete type=2 #15707
+2024/09/17-19:39:18.152 5 Level-0 table #15714: started
+2024/09/17-19:39:18.159 5 Level-0 table #15714: 28198 bytes OK
+2024/09/17-19:39:18.161 5 Delete type=0 #15708
+2024/09/17-19:40:08.755 5 Level-0 table #15716: started
+2024/09/17-19:40:08.762 5 Level-0 table #15716: 17819 bytes OK
+2024/09/17-19:40:08.764 5 Delete type=0 #15713

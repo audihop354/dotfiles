@@ -1,0 +1,15 @@
+2024/09/04-10:37:48.672 712 Reusing MANIFEST /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.capcut.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/04-10:37:48.672 712 Recovering log #4
+2024/09/04-10:37:48.672 712 Reusing old log /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.capcut.com_0.indexeddb.leveldb/000004.log 
+2024/09/04-10:47:18.910 712 Level-0 table #8: started
+2024/09/04-10:47:18.914 712 Level-0 table #8: 521864 bytes OK
+2024/09/04-10:47:18.915 712 Delete type=0 #4
+2024/09/04-10:47:18.915 712 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/09/04-10:47:18.916 712 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x01\x02\x01\x0b\x00s\x00d\x00k\x00_\x00v\x00e\x00r\x00i\x00s\x00o\x00n' @ 4514 : 1
+2024/09/04-10:47:18.916 712 Compacting 1@1 + 1@2 files
+2024/09/04-10:47:18.921 712 Generated table #9@1: 920 keys, 1026302 bytes
+2024/09/04-10:47:18.921 712 Compacted 1@1 + 1@2 files => 1026302 bytes
+2024/09/04-10:47:18.922 712 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/04-10:47:18.922 712 Delete type=2 #8
+2024/09/04-10:47:18.922 712 Delete type=2 #5
+2024/09/04-10:47:18.923 712 Manual compaction at level-1 from '\x00\x08\x01\x02\x01\x0b\x00s\x00d\x00k\x00_\x00v\x00e\x00r\x00i\x00s\x00o\x00n' @ 4514 : 1 .. (end); will stop at (end)

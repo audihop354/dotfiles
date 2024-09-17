@@ -1,0 +1,13 @@
+2024/08/27-09:50:12.979 581 Reusing MANIFEST /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/27-09:50:12.980 581 Recovering log #42
+2024/08/27-09:50:12.980 581 Reusing old log /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/000042.log 
+2024/08/27-09:50:12.990 581 Level-0 table #47: started
+2024/08/27-09:50:12.991 581 Level-0 table #47: 1911 bytes OK
+2024/08/27-09:50:12.992 581 Delete type=0 #42
+2024/08/27-09:50:12.992 581 Manual compaction at level-0 from '\x00\x10\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x11\x00\x00\x00' @ 0 : 0; will stop at '\x00\x10\x00\x00\x05' @ 365 : 1
+2024/08/27-09:50:12.993 581 Compacting 1@0 + 1@1 files
+2024/08/27-09:50:12.994 581 Generated table #48@0: 97 keys, 7477 bytes
+2024/08/27-09:50:12.994 581 Compacted 1@0 + 1@1 files => 7477 bytes
+2024/08/27-09:50:12.995 581 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/27-09:50:12.996 581 Delete type=2 #47
+2024/08/27-09:50:12.996 581 Manual compaction at level-0 from '\x00\x10\x00\x00\x05' @ 365 : 1 .. '\x00\x11\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,6 @@
+2024/07/12-19:56:58.526 56f Creating DB /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.quora.com_0.indexeddb.leveldb since it was missing.
+2024/07/12-19:56:58.528 56f Reusing MANIFEST /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.quora.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/12-19:57:31.541 562 Level-0 table #5: started
+2024/07/12-19:57:31.543 562 Level-0 table #5: 3059 bytes OK
+2024/07/12-19:57:31.544 562 Delete type=0 #3
+2024/07/12-19:57:31.544 562 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

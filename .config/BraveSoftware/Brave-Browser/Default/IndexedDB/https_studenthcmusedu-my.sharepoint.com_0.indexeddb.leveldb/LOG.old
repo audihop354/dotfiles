@@ -1,0 +1,24 @@
+2024/09/07-17:06:47.131 d52 Reusing MANIFEST /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_studenthcmusedu-my.sharepoint.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/07-17:06:47.132 d52 Recovering log #6
+2024/09/07-17:06:47.133 d52 Reusing old log /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_studenthcmusedu-my.sharepoint.com_0.indexeddb.leveldb/000006.log 
+2024/09/07-17:06:51.329 d52 Level-0 table #11: started
+2024/09/07-17:06:51.372 d52 Level-0 table #11: 1762230 bytes OK
+2024/09/07-17:06:51.379 d52 Delete type=0 #6
+2024/09/07-17:06:51.618 d55 Compacting 1@1 + 1@2 files
+2024/09/07-17:06:51.663 d55 Generated table #12@1: 2962 keys, 997130 bytes
+2024/09/07-17:06:51.663 d55 Compacted 1@1 + 1@2 files => 997130 bytes
+2024/09/07-17:06:51.671 d55 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/07-17:07:13.308 d51 Level-0 table #14: started
+2024/09/07-17:07:13.370 d51 Level-0 table #14: 1474205 bytes OK
+2024/09/07-17:07:13.378 d51 Delete type=0 #10
+2024/09/07-17:07:13.379 d51 Delete type=2 #8
+2024/09/07-17:07:13.379 d51 Delete type=2 #11
+2024/09/07-17:07:13.793 d55 Compacting 1@1 + 1@2 files
+2024/09/07-17:07:13.871 d55 Generated table #15@1: 3209 keys, 1209711 bytes
+2024/09/07-17:07:13.871 d55 Compacted 1@1 + 1@2 files => 1209711 bytes
+2024/09/07-17:07:13.878 d55 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/07-17:07:13.879 d55 Delete type=2 #12
+2024/09/07-17:07:13.879 d55 Delete type=2 #14
+2024/09/07-17:11:47.876 d51 Level-0 table #17: started
+2024/09/07-17:11:47.915 d51 Level-0 table #17: 1230678 bytes OK
+2024/09/07-17:11:47.922 d51 Delete type=0 #13

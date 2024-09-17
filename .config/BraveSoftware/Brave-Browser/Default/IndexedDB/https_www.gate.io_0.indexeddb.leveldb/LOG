@@ -1,0 +1,15 @@
+2024/07/30-07:55:34.029 5ac Reusing MANIFEST /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.gate.io_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/30-07:55:34.030 5ac Recovering log #4
+2024/07/30-07:55:34.030 5ac Reusing old log /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.gate.io_0.indexeddb.leveldb/000004.log 
+2024/07/30-07:55:36.439 5ac Level-0 table #8: started
+2024/07/30-07:55:36.440 5ac Level-0 table #8: 209 bytes OK
+2024/07/30-07:55:36.440 5ac Delete type=0 #4
+2024/07/30-07:55:36.441 5ac Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/07/30-07:55:36.441 5ac Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 140 : 1
+2024/07/30-07:55:36.441 5ac Compacting 1@1 + 1@2 files
+2024/07/30-07:55:36.442 5ac Generated table #9@1: 41 keys, 2871 bytes
+2024/07/30-07:55:36.442 5ac Compacted 1@1 + 1@2 files => 2871 bytes
+2024/07/30-07:55:36.443 5ac compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/07/30-07:55:36.443 5ac Delete type=2 #8
+2024/07/30-07:55:36.443 5ac Delete type=2 #5
+2024/07/30-07:55:36.443 5ac Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 140 : 1 .. (end); will stop at (end)

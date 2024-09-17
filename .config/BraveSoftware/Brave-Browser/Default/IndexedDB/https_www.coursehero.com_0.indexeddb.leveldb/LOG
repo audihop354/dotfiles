@@ -1,0 +1,6 @@
+2024/07/05-22:15:13.529 587 Creating DB /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.coursehero.com_0.indexeddb.leveldb since it was missing.
+2024/07/05-22:15:13.539 587 Reusing MANIFEST /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.coursehero.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/05-22:15:53.382 588 Level-0 table #5: started
+2024/07/05-22:15:53.385 588 Level-0 table #5: 2242 bytes OK
+2024/07/05-22:15:53.388 588 Delete type=0 #3
+2024/07/05-22:15:53.389 588 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

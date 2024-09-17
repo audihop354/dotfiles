@@ -1,0 +1,18 @@
+2024/05/25-22:39:33.047 571 Creating DB /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.terabox.com_0.indexeddb.leveldb since it was missing.
+2024/05/25-22:39:33.049 571 Reusing MANIFEST /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.terabox.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/25-22:39:33.109 57f Level-0 table #5: started
+2024/05/25-22:39:33.110 57f Level-0 table #5: 1188 bytes OK
+2024/05/25-22:39:33.111 57f Delete type=0 #3
+2024/05/25-22:39:33.111 575 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/05/25-23:13:22.368 572 Level-0 table #7: started
+2024/05/25-23:13:22.373 572 Level-0 table #7: 8399 bytes OK
+2024/05/25-23:13:22.375 572 Delete type=0 #4
+2024/05/25-23:13:22.375 572 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/05/25-23:13:22.375 572 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01\x02\x01c\x001\x00:\x008\x006\x006\x007\x009\x004\x004\x008\x005\x005\x003\x002\x00:\x00w\x00e\x00b\x00:\x00b\x009\x00c\x003\x003\x00b\x000\x00f\x001\x002\x002\x00f\x008\x009\x007\x005\x008\x00a\x006\x00c\x00d\x009\x00,\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00,\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00,\x00l\x00a\x00s\x00t\x00_\x00s\x00u\x00c\x00c\x00e\x00s\x00s\x00f\x00u\x00l\x00_\x00f\x00e\x00t\x00c\x00h\x00_\x00t\x00i\x00m\x00e\x00s\x00t\x00a\x00m\x00p\x00_\x00m\x00i\x00l\x00l\x00i\x00s' @ 244 : 1
+2024/05/25-23:13:22.376 572 Compacting 1@1 + 1@2 files
+2024/05/25-23:13:22.377 572 Generated table #8@1: 59 keys, 3325 bytes
+2024/05/25-23:13:22.377 572 Compacted 1@1 + 1@2 files => 3325 bytes
+2024/05/25-23:13:22.379 572 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/25-23:13:22.379 572 Delete type=2 #7
+2024/05/25-23:13:22.379 572 Delete type=2 #5
+2024/05/25-23:13:22.380 572 Manual compaction at level-1 from '\x00\x04\x01\x02\x01c\x001\x00:\x008\x006\x006\x007\x009\x004\x004\x008\x005\x005\x003\x002\x00:\x00w\x00e\x00b\x00:\x00b\x009\x00c\x003\x003\x00b\x000\x00f\x001\x002\x002\x00f\x008\x009\x007\x005\x008\x00a\x006\x00c\x00d\x009\x00,\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00,\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00,\x00l\x00a\x00s\x00t\x00_\x00s\x00u\x00c\x00c\x00e\x00s\x00s\x00f\x00u\x00l\x00_\x00f\x00e\x00t\x00c\x00h\x00_\x00t\x00i\x00m\x00e\x00s\x00t\x00a\x00m\x00p\x00_\x00m\x00i\x00l\x00l\x00i\x00s' @ 244 : 1 .. (end); will stop at (end)

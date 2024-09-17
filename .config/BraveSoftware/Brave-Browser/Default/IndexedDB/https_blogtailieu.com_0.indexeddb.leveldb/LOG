@@ -1,0 +1,6 @@
+2024/07/19-22:33:15.438 56c Creating DB /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_blogtailieu.com_0.indexeddb.leveldb since it was missing.
+2024/07/19-22:33:15.442 56c Reusing MANIFEST /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_blogtailieu.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/19-22:33:30.529 57d Level-0 table #5: started
+2024/07/19-22:33:30.531 57d Level-0 table #5: 592 bytes OK
+2024/07/19-22:33:30.533 57d Delete type=0 #3
+2024/07/19-22:33:30.533 56c Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

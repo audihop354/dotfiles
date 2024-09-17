@@ -1,0 +1,12 @@
+2024/09/15-19:53:19.995 740 Reusing MANIFEST /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/15-19:53:19.995 740 Recovering log #210
+2024/09/15-19:53:19.997 740 Reusing old log /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000210.log 
+2024/09/15-19:53:21.902 741 Compacting 1@1 + 1@2 files
+2024/09/15-19:53:21.917 741 Generated table #213@1: 304 keys, 900163 bytes
+2024/09/15-19:53:21.917 741 Compacted 1@1 + 1@2 files => 900163 bytes
+2024/09/15-19:53:21.918 741 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/15-19:53:21.918 741 Delete type=2 #208
+2024/09/15-19:53:21.918 741 Delete type=2 #211
+2024/09/15-19:53:34.116 741 Level-0 table #215: started
+2024/09/15-19:53:34.139 741 Level-0 table #215: 3031235 bytes OK
+2024/09/15-19:53:34.140 741 Delete type=0 #210

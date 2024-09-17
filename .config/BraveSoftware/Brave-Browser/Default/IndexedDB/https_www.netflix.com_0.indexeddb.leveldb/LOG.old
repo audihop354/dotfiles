@@ -1,0 +1,12 @@
+2024/06/12-12:34:28.689 56b Reusing MANIFEST /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/12-12:34:28.690 56b Recovering log #31
+2024/06/12-12:34:28.696 56b Reusing old log /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000031.log 
+2024/06/12-13:03:18.720 55f Level-0 table #36: started
+2024/06/12-13:03:18.779 55f Level-0 table #36: 2736888 bytes OK
+2024/06/12-13:03:18.785 55f Delete type=0 #31
+2024/06/12-13:17:16.691 55e Compacting 1@1 + 1@2 files
+2024/06/12-13:17:16.711 55e Generated table #37@1: 55 keys, 16837 bytes
+2024/06/12-13:17:16.711 55e Compacted 1@1 + 1@2 files => 16837 bytes
+2024/06/12-13:17:16.712 55e compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/12-13:17:16.713 55e Delete type=2 #36
+2024/06/12-13:17:16.713 55e Delete type=2 #33

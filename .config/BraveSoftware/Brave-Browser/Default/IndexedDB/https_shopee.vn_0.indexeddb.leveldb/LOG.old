@@ -1,0 +1,15 @@
+2024/09/12-19:19:21.978 9fc Reusing MANIFEST /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_shopee.vn_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/12-19:19:21.979 9fc Recovering log #90
+2024/09/12-19:19:21.980 9fc Reusing old log /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_shopee.vn_0.indexeddb.leveldb/000090.log 
+2024/09/12-19:28:31.748 9fc Level-0 table #95: started
+2024/09/12-19:28:31.751 9fc Level-0 table #95: 281925 bytes OK
+2024/09/12-19:28:31.753 9fc Delete type=0 #90
+2024/09/12-19:28:31.753 9fc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/09/12-19:28:31.753 9fc Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x0c\x00m\x00i\x00n\x00i\x00-\x00s\x00e\x00s\x00s\x00i\x00o\x00n' @ 183838 : 1
+2024/09/12-19:28:31.753 9fc Compacting 1@1 + 1@2 files
+2024/09/12-19:28:31.754 9fc Generated table #96@1: 150 keys, 5420 bytes
+2024/09/12-19:28:31.754 9fc Compacted 1@1 + 1@2 files => 5420 bytes
+2024/09/12-19:28:31.755 9fc compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/12-19:28:31.755 9fc Delete type=2 #95
+2024/09/12-19:28:31.755 9fc Delete type=2 #92
+2024/09/12-19:28:31.755 9fc Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x0c\x00m\x00i\x00n\x00i\x00-\x00s\x00e\x00s\x00s\x00i\x00o\x00n' @ 183838 : 1 .. (end); will stop at (end)

@@ -1,0 +1,13 @@
+2024/08/21-00:12:52.851 5b6 Reusing MANIFEST /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_vast-check-c6a.notion.site_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/21-00:12:52.852 5b6 Recovering log #10
+2024/08/21-00:12:52.852 5b6 Reusing old log /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_vast-check-c6a.notion.site_0.indexeddb.leveldb/000010.log 
+2024/08/21-00:12:53.560 5b6 Level-0 table #14: started
+2024/08/21-00:12:53.561 5b6 Level-0 table #14: 567 bytes OK
+2024/08/21-00:12:53.562 5b6 Delete type=0 #10
+2024/08/21-00:12:53.562 5b6 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x00\x00\x05' @ 221 : 1
+2024/08/21-00:12:53.562 5b6 Compacting 1@0 + 1@1 files
+2024/08/21-00:12:53.563 5b6 Generated table #15@0: 11 keys, 542 bytes
+2024/08/21-00:12:53.563 5b6 Compacted 1@0 + 1@1 files => 542 bytes
+2024/08/21-00:12:53.563 5b6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/21-00:12:53.564 5b6 Delete type=2 #14
+2024/08/21-00:12:53.564 5b6 Manual compaction at level-0 from '\x00\x04\x00\x00\x05' @ 221 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

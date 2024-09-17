@@ -1,0 +1,12 @@
+2024/09/10-23:07:27.449 6ef Reusing MANIFEST /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_sexmi-my.sharepoint.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/10-23:07:27.449 6ef Recovering log #16
+2024/09/10-23:07:27.450 6ef Reusing old log /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_sexmi-my.sharepoint.com_0.indexeddb.leveldb/000016.log 
+2024/09/10-23:07:31.617 6ff Level-0 table #21: started
+2024/09/10-23:07:31.626 6ff Level-0 table #21: 1071941 bytes OK
+2024/09/10-23:07:31.628 6ff Delete type=0 #16
+2024/09/10-23:07:31.762 6ef Compacting 1@1 + 1@2 files
+2024/09/10-23:07:31.777 6ef Generated table #22@1: 4382 keys, 1809506 bytes
+2024/09/10-23:07:31.777 6ef Compacted 1@1 + 1@2 files => 1809506 bytes
+2024/09/10-23:07:31.778 6ef compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/10-23:07:31.778 6ef Delete type=2 #21
+2024/09/10-23:07:31.778 6ef Delete type=2 #18

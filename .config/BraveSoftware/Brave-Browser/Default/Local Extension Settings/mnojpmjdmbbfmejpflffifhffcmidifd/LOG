@@ -1,0 +1,58 @@
+2024/09/17-19:03:08.518 736 Reusing MANIFEST /home/namun/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/MANIFEST-000001
+2024/09/17-19:03:08.520 736 Recovering log #10321
+2024/09/17-19:03:08.520 736 Reusing old log /home/namun/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/010321.log 
+2024/09/17-19:08:19.888 737 Level-0 table #10326: started
+2024/09/17-19:08:19.904 737 Level-0 table #10326: 1196564 bytes OK
+2024/09/17-19:08:19.906 737 Delete type=0 #10321
+2024/09/17-19:09:10.497 737 Level-0 table #10328: started
+2024/09/17-19:09:10.506 737 Level-0 table #10328: 1191051 bytes OK
+2024/09/17-19:09:10.507 737 Delete type=0 #10325
+2024/09/17-19:10:24.950 737 Level-0 table #10330: started
+2024/09/17-19:10:24.965 737 Level-0 table #10330: 1190368 bytes OK
+2024/09/17-19:10:24.967 737 Delete type=0 #10327
+2024/09/17-19:11:15.051 737 Level-0 table #10332: started
+2024/09/17-19:11:15.067 737 Level-0 table #10332: 1190789 bytes OK
+2024/09/17-19:11:15.069 737 Delete type=0 #10329
+2024/09/17-19:11:15.069 737 Compacting 4@0 + 1@1 files
+2024/09/17-19:11:15.092 737 Generated table #10333@0: 239 keys, 418504 bytes
+2024/09/17-19:11:15.092 737 Compacted 4@0 + 1@1 files => 418504 bytes
+2024/09/17-19:11:15.093 737 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/17-19:11:15.093 737 Delete type=2 #10326
+2024/09/17-19:11:15.093 737 Delete type=2 #10330
+2024/09/17-19:11:15.093 737 Delete type=2 #10323
+2024/09/17-19:11:15.093 737 Delete type=2 #10328
+2024/09/17-19:11:15.093 737 Delete type=2 #10332
+2024/09/17-19:11:32.068 737 Level-0 table #10335: started
+2024/09/17-19:11:32.085 737 Level-0 table #10335: 1190684 bytes OK
+2024/09/17-19:11:32.086 737 Delete type=0 #10331
+2024/09/17-19:15:10.540 737 Level-0 table #10337: started
+2024/09/17-19:15:10.555 737 Level-0 table #10337: 1192200 bytes OK
+2024/09/17-19:15:10.556 737 Delete type=0 #10334
+2024/09/17-19:16:55.878 737 Level-0 table #10339: started
+2024/09/17-19:16:55.898 737 Level-0 table #10339: 1191829 bytes OK
+2024/09/17-19:16:55.901 737 Delete type=0 #10336
+2024/09/17-19:18:45.729 737 Level-0 table #10341: started
+2024/09/17-19:18:45.740 737 Level-0 table #10341: 1192918 bytes OK
+2024/09/17-19:18:45.741 737 Delete type=0 #10338
+2024/09/17-19:18:45.742 737 Compacting 4@0 + 1@1 files
+2024/09/17-19:18:45.763 737 Generated table #10342@0: 242 keys, 416476 bytes
+2024/09/17-19:18:45.763 737 Compacted 4@0 + 1@1 files => 416476 bytes
+2024/09/17-19:18:45.764 737 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/17-19:18:45.764 737 Delete type=2 #10337
+2024/09/17-19:18:45.764 737 Delete type=2 #10333
+2024/09/17-19:18:45.764 737 Delete type=2 #10335
+2024/09/17-19:18:45.764 737 Delete type=2 #10339
+2024/09/17-19:18:45.764 737 Delete type=2 #10341
+2024/09/17-19:21:50.822 736 Level-0 table #10344: started
+2024/09/17-19:21:50.838 736 Level-0 table #10344: 1193205 bytes OK
+2024/09/17-19:21:50.841 736 Delete type=0 #10340
+2024/09/17-19:28:14.062 737 Level-0 table #10346: started
+2024/09/17-19:28:14.080 737 Level-0 table #10346: 1200142 bytes OK
+2024/09/17-19:28:14.082 737 Delete type=0 #10343
+2024/09/17-19:36:11.572 737 Compacting 2@0 + 1@1 files
+2024/09/17-19:36:11.589 737 Generated table #10347@0: 253 keys, 421291 bytes
+2024/09/17-19:36:11.589 737 Compacted 2@0 + 1@1 files => 421291 bytes
+2024/09/17-19:36:11.591 737 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/17-19:36:11.591 737 Delete type=2 #10344
+2024/09/17-19:36:11.591 737 Delete type=2 #10346
+2024/09/17-19:36:11.591 737 Delete type=2 #10342
