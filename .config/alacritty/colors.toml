@@ -1,1 +1,1 @@
-import = [ '~/.config/alacritty/colors/everforest.toml' ]
+../../dotfiles/.config/alacritty/colors.toml
