@@ -1,4 +1,0 @@
-2024/08/22-12:36:40.750 1a02 Reusing MANIFEST /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_olm.vn_0.indexeddb.leveldb/MANIFEST-000001
-2024/08/22-12:36:40.751 1a02 Recovering log #30
-2024/08/22-12:36:40.751 1a02 Reusing old log /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_olm.vn_0.indexeddb.leveldb/000030.log 
-2024/08/22-12:36:40.907 1a05 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)

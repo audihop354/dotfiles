@@ -1,7 +1,0 @@
-2024/09/12-22:23:21.477 70d Reusing MANIFEST /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_codesandbox.io_0.indexeddb.leveldb/MANIFEST-000001
-2024/09/12-22:23:21.477 70d Recovering log #3
-2024/09/12-22:23:21.485 70d Reusing old log /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_codesandbox.io_0.indexeddb.leveldb/000003.log 
-2024/09/12-22:24:25.503 701 Level-0 table #5: started
-2024/09/12-22:24:25.506 701 Level-0 table #5: 212087 bytes OK
-2024/09/12-22:24:25.507 701 Delete type=0 #3
-2024/09/12-22:24:25.507 701 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

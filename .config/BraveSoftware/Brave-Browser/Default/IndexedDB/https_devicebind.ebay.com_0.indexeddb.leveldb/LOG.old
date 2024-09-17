@@ -1,6 +1,0 @@
-2024/06/26-21:29:38.255 5d9 Creating DB /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_devicebind.ebay.com_0.indexeddb.leveldb since it was missing.
-2024/06/26-21:29:38.258 5d9 Reusing MANIFEST /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_devicebind.ebay.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/26-21:29:42.677 5da Level-0 table #5: started
-2024/06/26-21:29:42.678 5da Level-0 table #5: 1216 bytes OK
-2024/06/26-21:29:42.683 5da Delete type=0 #3
-2024/06/26-21:29:42.684 5da Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,6 +1,0 @@
-2024/06/25-22:22:10.623 5c4 Creating DB /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.gate.io_0.indexeddb.leveldb since it was missing.
-2024/06/25-22:22:10.625 5c4 Reusing MANIFEST /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.gate.io_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/25-22:22:13.441 5c5 Level-0 table #5: started
-2024/06/25-22:22:13.442 5c5 Level-0 table #5: 4220 bytes OK
-2024/06/25-22:22:13.442 5c5 Delete type=0 #3
-2024/06/25-22:22:13.442 5c5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

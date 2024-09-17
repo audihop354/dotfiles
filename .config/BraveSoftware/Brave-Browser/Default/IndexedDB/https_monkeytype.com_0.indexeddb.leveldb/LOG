@@ -1,7 +1,0 @@
-2024/08/30-00:19:41.149 5fd Reusing MANIFEST /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/08/30-00:19:41.149 5fd Recovering log #3
-2024/08/30-00:19:41.150 5fd Reusing old log /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/000003.log 
-2024/08/30-00:19:41.176 5ff Level-0 table #5: started
-2024/08/30-00:19:41.178 5ff Level-0 table #5: 2921 bytes OK
-2024/08/30-00:19:41.178 5ff Delete type=0 #3
-2024/08/30-00:19:41.179 5ee Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

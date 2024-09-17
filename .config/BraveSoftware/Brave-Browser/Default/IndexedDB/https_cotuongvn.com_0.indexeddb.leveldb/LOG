@@ -1,6 +1,0 @@
-2024/09/05-16:59:12.290 898 Creating DB /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_cotuongvn.com_0.indexeddb.leveldb since it was missing.
-2024/09/05-16:59:12.292 898 Reusing MANIFEST /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_cotuongvn.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/09/05-16:59:12.314 8a5 Level-0 table #5: started
-2024/09/05-16:59:12.315 8a5 Level-0 table #5: 764 bytes OK
-2024/09/05-16:59:12.316 8a5 Delete type=0 #3
-2024/09/05-16:59:12.317 8a6 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

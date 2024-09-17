@@ -1,6 +1,0 @@
-2024/09/15-19:38:21.297 740 Reusing MANIFEST /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/09/15-19:38:21.297 740 Recovering log #205
-2024/09/15-19:38:21.306 740 Reusing old log /home/namun/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000205.log 
-2024/09/15-19:38:35.805 741 Level-0 table #211: started
-2024/09/15-19:38:35.822 741 Level-0 table #211: 2994743 bytes OK
-2024/09/15-19:38:35.823 741 Delete type=0 #205
